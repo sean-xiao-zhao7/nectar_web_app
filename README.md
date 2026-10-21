@@ -1,32 +1,19 @@
-# React + TypeScript + Vite
+# Nectar Virtual Cards
 
-This template provides a minimal setup to get React working in Vite with HMR and some Oxlint rules.
+> Turn any business card or physical object into clean, interactive digital cards in seconds.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+## What is Nectar Virtual Cards?
 
-## React Compiler
+**Nectar Virtual Cards** is an intelligent assistant designed to declutter your workspace and organize your physical networking materials. Simply take a photo of a business card, receipt, or physical object, and our AI instantly reads the details, extracts key information, and organizes everything into neatly formatted digital cards.
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+---
 
-## Expanding the Oxlint configuration
+## Key Features
 
-If you are developing a production application, we recommend enabling type-aware lint rules by installing `oxlint-tsgolint` and editing `.oxlintrc.json`:
-
-```json
-{
-  "$schema": "./node_modules/oxlint/configuration_schema.json",
-  "plugins": ["react", "typescript", "oxc"],
-  "options": {
-    "typeAware": true
-  },
-  "rules": {
-    "react/rules-of-hooks": "error",
-    "react/only-export-components": ["warn", { "allowConstantExport": true }]
-  }
-}
-```
-
-See the [Oxlint rules documentation](https://oxc.rs/docs/guide/usage/linter/rules) for the full list of rules and categories.
+-   **Snap & Scan:** Capture business cards or items using your camera or by uploading an image.
+-   **Smart Information Capture:** Automatically detects names, job titles, phone numbers, email addresses, and key details without manual typing.
+-   **Instant Digital Cards:** Transforms raw physical text into clean, organized, and easy-to-read cards inside the app.
+-   **Automatic Translation:** Effortlessly translate foreign language business cards into your preferred language.
+-   **Easy Search & Categorization:** Find any card in seconds using simple keywords, tags, or categories.

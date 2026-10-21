@@ -1,6 +1,6 @@
 # Nectar Virtual Cards
 
-> Turn any business card or physical object into clean, interactive digital cards in seconds.
+Turn any business card or physical object into clean, interactive digital cards in seconds.
 
 ---
 
